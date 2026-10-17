@@ -16,7 +16,8 @@ Example raw URL:
 -->
 <div align="center">
   <img
-    src="YOUR_HEADER_GIF_URL"
+    src="<img width="1308" height="730" alt="starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper" src="https://github.com/user-attachments/assets/c7add228-d206-48e2-a86d-063af86aea48" />
+"
     alt="Pixel cyberpunk header GIF — replace with your own"
     width="100%"
   />
