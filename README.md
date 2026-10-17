@@ -1,199 +1,131 @@
-<!--
-GITHUB PROFILE README — PIXEL CYBERPUNK / LIGHT THEME FRIENDLY
-
-SETUP:
-1. Replace the GIF URL in the header with your own GIF URL.
-2. Update the project repository link if you want to feature a different project.
-3. Keep the GitHub username as thanhtamMalus unless your account changes.
-4. GitHub sanitizes HTML/CSS, so this uses Markdown, simple HTML, images, and badges only.
--->
-
-<!-- HEADER GIF
-Upload your GIF to a public location (for example, this profile repository under assets/header.gif),
-then replace YOUR_HEADER_GIF_URL below with its raw URL.
-Example raw URL:
-[https://raw.githubusercontent.com/thanhtamMalus/thanhtamMalus/main/assets/header.gif](https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif)
--->
-<div align="center">
-  <img
-    src="<img width="1308" height="730" alt="starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper" src="https://github.com/user-attachments/assets/c7add228-d206-48e2-a86d-063af86aea48" />
-"
-    alt="Pixel cyberpunk header GIF — replace with your own"
-    width="100%"
-  />
-</div>
-
 <div align="center">
 
-# `> whoami`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=C4B5FD,F9A8D4,FCD9B6&height=130&section=header&text=Malus&fontColor=FFFFFF&fontSize=44&fontAlignY=40" alt="Malus" width="100%" />
 
-### Malus · Cybersecurity Learner
-
-**Learning systems. Exploring security. Building one step at a time.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-thanhtamMalus-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/thanhtamMalus)
-[![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-0891B2?style=flat-square)](#about-me)
-[![Mode](https://img.shields.io/badge/MODE-LEARNING-DB2777?style=flat-square)](#current-objectives)
+<a href="https://github.com/thanhtamMalus">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&height=36&lines=%3E+booting+malus.sys...;%3E+status%3A+student+%7C+learning+%7C+experimenting;%3E+signal+found+under+the+night+sky_" alt="Terminal subtitle" />
+</a>
 
 </div>
 
----
+<br />
+
+## `> whoami`
+
+<table width="100%"> 
+  <tr> 
+    <td width="150" align="center" valign="middle"> 
+      <a href="https://github.com/thanhtamMalus"><img src="https://github.com/thanhtamMalus.png?size=200" alt="Malus avatar" width="120" />
+      </a>
+    </td> 
+    <td valign="middle"> 
+      <h3>Malus
+      </h3> 
+      <p>
+        <b>Learning systems. Exploring security. Building one step at a time.
+      </b>
+      </p>
+      <p> <a href="https://github.com/thanhtamMalus"><img src="https://img.shields.io/badge/GitHub-thanhtamMalus-DDD6FE?style=flat-square&logo=github&logoColor=5B21B6" alt="GitHub" />
+      </a> <img src="https://img.shields.io/badge/Focus-Cybersecurity-C4B5FD?style=flat-square" alt="Focus: Cybersecurity" /> <img src="https://img.shields.io/badge/Status-Learning-FBCFE8?style=flat-square" alt="Status: Learning" /> 
+      </p> 
+    </td>
+  </tr> 
+</table> 
+<div align="center"> 
+  <a href="https://github.com/thanhtamMalus">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&repeat=false&color=A78BFA&center=true&vCenter=true&width=460&height=44&lines=%E2%9C%A8+Get+into+the+sky+of+dreams+%F0%9F%8C%8C" alt="Get into the sky of dreams" /> 
+  </a> 
+</div> 
+<br />
 
 ## `01 // ABOUT ME`
 
-```text
-┌─ PROFILE_INIT ────────────────────────────┐
-│ user       : Malus                         │
-│ interest   : cybersecurity / systems       │
-│ environment: Linux / programming           │
-│ status     : learning, experimenting       │
-└────────────────────────────────────────────┘
+```bash
+malus@night-sky:~$ cat about.txt
+
+  name      : Malus
+  path      : Cybersecurity / Computer Systems / Programming
+  status    : student, learning, experimenting
+  likes     : Linux terminal, systems programming, understanding how things work
+  approach  : learn in the open, practice in legal labs, improve step by step
+  signature : curiosity > perfection
 ```
 
-Hi! I'm **Malus**, a student interested in **cybersecurity, computer systems, and programming**.
-
-I enjoy Linux terminal aesthetics, cyberpunk city lights, and small 8-bit details. I’m still learning, and I’m happy to explore unfamiliar tools and ideas through practice.
-
-- Learning programming and system fundamentals.
-- Exploring cybersecurity through legal labs and authorized environments.
-- Building coursework projects and documenting what I learn.
-- Trying new things, learning from mistakes, and improving step by step.
-
-> `curiosity > perfection`
+<br />
 
 ## `02 // CURRENT OBJECTIVES`
 
-```text
-[████████████░░░░░░░░] EXPLORATION MODE
-```
+- **Programming fundamentals**: writing cleaner code and understanding the logic behind it.
+- **Computer systems & Linux**: getting comfortable with the terminal and how systems work underneath.
+- **Cybersecurity**: practicing through legal labs and authorized environments only.
+- **Projects & notes**: building small projects, writing down what I learn, and improving a little each time.
 
-- [ ] Strengthen programming fundamentals.
-- [ ] Learn more about Linux and system internals.
-- [ ] Practice cybersecurity in safe, authorized environments.
-- [ ] Build more projects and share useful notes.
+<br />
 
-*These are learning goals, not claims of certifications or completed achievements.*
-
----
-
-## `03 // TECH TOOLKIT`
+## `03 // TECH STACK`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Python-DDD6FE?style=for-the-badge&logo=python&logoColor=5B21B6" alt="Python" />
+<img src="https://img.shields.io/badge/C-DDD6FE?style=for-the-badge&logo=c&logoColor=5B21B6" alt="C" />
+<img src="https://img.shields.io/badge/C++-DDD6FE?style=for-the-badge&logo=cplusplus&logoColor=5B21B6" alt="C++" />
+<img src="https://img.shields.io/badge/Linux-FBCFE8?style=for-the-badge&logo=linux&logoColor=9D174D" alt="Linux" />
+<img src="https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=9D174D" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-FBCFE8?style=for-the-badge&logo=github&logoColor=9D174D" alt="GitHub" />
 
 </div>
 
-| Area | Exploring |
-|---|---|
-| Programming | Python, C/C++ fundamentals |
-| Systems | Linux, command line, system concepts |
-| Cybersecurity | Core concepts, safe labs, defensive mindset |
-| Workflow | Git, GitHub, documentation |
+<br />
 
-*Keep only the technologies you actively use or are currently learning.*
+## `04 // FEATURED PROJECTS`
 
----
+<div align="center">
 
-## `04 // FEATURED PROJECT`
-
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="100%">
-
-### `LTHT` — Systems Programming Lab
-
-A collection of practical exercises for the **NT209 Systems Programming** course.
-
-**Topics:** Python · coursework · systems programming
-
-[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhtamMalus/LTHT)
-
-</td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/thanhtamMalus/LTHT">LTHT</a> &nbsp;·&nbsp; <sub>featured</sub></h3>
+      <p>Hands-on lab exercises for the <b>NT209</b> Systems Programming course.</p>
+      <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
+      <p><a href="https://github.com/thanhtamMalus/LTHT"><b>Open repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/thanhtamMalus/MMH">MMH</a></h3>
+      <p>Code storage for the <b>NT219</b> course.</p>
+      <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
+      <p><a href="https://github.com/thanhtamMalus/MMH"><b>Open repository →</b></a></p>
+    </td>
   </tr>
 </table>
 
-<div align="center">
-
-[**Browse all repositories →**](https://github.com/thanhtamMalus?tab=repositories)
+<a href="https://github.com/thanhtamMalus?tab=repositories"><b>Show more →</b></a>
 
 </div>
 
----
+<br />
 
-## `05 // GITHUB TELEMETRY`
+## `05 // GITHUB STATISTICS`
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=thanhtamMalus&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=0891B2&text_color=24292F"
-  height="165"
-  alt="GitHub statistics"
-/>
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtamMalus&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F"
-  height="165"
-  alt="Top programming languages"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhtamMalus&show_icons=true&bg_color=F5F0FF&border_color=DDD6FE&title_color=8B5CF6&icon_color=F472B6&text_color=5B4B8A&border_radius=10" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=thanhtamMalus&background=F5F0FF&border=DDD6FE&stroke=DDD6FE&ring=A78BFA&fire=F472B6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=A78BFA&sideLabels=5B4B8A&dates=5B4B8A&border_radius=10" alt="GitHub streak" />
 
-<br/>
+<br /><br />
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtamMalus&bg_color=FFFFFF&color=24292F&line=0891B2&point=DB2777&area=true&hide_border=true"
-  width="96%"
-  alt="GitHub contribution activity"
-/>
-
-<br/>
-
-<img
-  src="https://komarev.com/ghpvc/?username=thanhtamMalus&style=flat-square&color=6D28D9&label=PROFILE+VIEWS"
-  alt="Profile views"
-/>
+<img src="https://ghchart.rshah.org/A78BFA/thanhtamMalus" alt="Contribution graph" width="100%" />
 
 </div>
 
-*These cards are generated by external services. They may occasionally be unavailable or use different counting rules.*
-
----
-
-## `06 // TERMINAL NOTES`
-
-```bash
-$ cat mindset.txt
-
-stay curious
-read the docs
-practice responsibly
-learn by building
-document the journey
-repeat()
-```
-
-I’m interested in how systems work, how they fail, and how they can be made safer. Cybersecurity is both a technical challenge and a responsibility: I only support testing on systems I own or have explicit permission to assess.
-
----
-
-## `07 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
-### `LET'S LEARN AND BUILD`
+<a href="https://github.com/thanhtamMalus"><img src="https://img.shields.io/badge/GitHub-thanhtamMalus-DDD6FE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/nghthanhtam"><img src="https://img.shields.io/badge/LinkedIn-nghthanhtam-FBCFE8?style=for-the-badge&logo=linkedin&logoColor=9D174D" alt="LinkedIn" /></a>
 
-Interested in my coursework or experiments?
+<br /><br />
 
-[![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhtamMalus?tab=repositories)
-
-```text
-[ END OF TRANSMISSION ]
-LEARN  /  BUILD  /  IMPROVE
-```
-
-<sub>LIGHT BACKGROUND · NEON ACCENTS · A LITTLE PIXEL · NO EXTRA NOISE</sub>
+`> end of transmission_`
 
 </div>
