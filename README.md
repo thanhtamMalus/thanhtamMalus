@@ -82,7 +82,6 @@ malus@night-sky:~$ cat about.txt
 ## `> FEATURED PROJECTS`
 
 <div align="center">
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -106,7 +105,7 @@ malus@night-sky:~$ cat about.txt
 
 <br />
 
-## `05 // GITHUB STATISTICS`
+## `> GITHUB STATISTICS`
 
 <div align="center">
 
@@ -119,7 +118,7 @@ malus@night-sky:~$ cat about.txt
 
 </div>
 
-## `06 // CONNECT`
+## `> CONNECT`
 
 <div align="center">
 
