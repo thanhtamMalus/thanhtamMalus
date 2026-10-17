@@ -12,6 +12,7 @@
 
 ## `> whoami`
 
+<div align="center">
 <table width="100%"> 
   <tr> 
     <td width="150" align="center" valign="middle"> 
@@ -31,6 +32,7 @@
     </td>
   </tr> 
 </table> 
+</div>
 <div align="center"> 
   <a href="https://github.com/thanhtamMalus">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&repeat=false&color=A78BFA&center=true&vCenter=true&width=460&height=44&lines=%E2%9C%A8+Get+into+the+sky+of+dreams+%F0%9F%8C%8C" alt="Get into the sky of dreams" /> 
@@ -38,7 +40,7 @@
 </div> 
 <br />
 
-## `01 // ABOUT ME`
+## `> ABOUT ME`
 
 ```bash
 malus@night-sky:~$ cat about.txt
@@ -53,7 +55,7 @@ malus@night-sky:~$ cat about.txt
 
 <br />
 
-## `02 // CURRENT OBJECTIVES`
+## `> CURRENT OBJECTIVES`
 
 - **Programming fundamentals**: writing cleaner code and understanding the logic behind it.
 - **Computer systems & Linux**: getting comfortable with the terminal and how systems work underneath.
@@ -62,7 +64,7 @@ malus@night-sky:~$ cat about.txt
 
 <br />
 
-## `03 // TECH STACK`
+## `> TECH STACK`
 
 <div align="center">
 
@@ -77,7 +79,7 @@ malus@night-sky:~$ cat about.txt
 
 <br />
 
-## `04 // FEATURED PROJECTS`
+## `> FEATURED PROJECTS`
 
 <div align="center">
 
