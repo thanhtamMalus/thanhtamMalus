@@ -1,169 +1,127 @@
 <!--
-╔══════════════════════════════════════════════════════════════════════╗
-║  PIXEL TERMINAL // GITHUB PROFILE                                   ║
-║  Replace every placeholder marked YOUR_USERNAME / YOUR_NAME / ...   ║
-╚══════════════════════════════════════════════════════════════════════╝
+GITHUB PROFILE README — PIXEL CYBERPUNK / LIGHT THEME FRIENDLY
+
+SETUP:
+1. Replace the GIF URL in the header with your own GIF URL.
+2. Update the project repository link if you want to feature a different project.
+3. Keep the GitHub username as thanhtamMalus unless your account changes.
+4. GitHub sanitizes HTML/CSS, so this uses Markdown, simple HTML, images, and badges only.
 -->
+
+<!-- HEADER GIF
+Upload your GIF to a public location (for example, this profile repository under assets/header.gif),
+then replace YOUR_HEADER_GIF_URL below with its raw URL.
+Example raw URL:
+https://raw.githubusercontent.com/thanhtamMalus/thanhtamMalus/main/assets/header.gif
+-->
+<div align="center">
+  <img
+    src="YOUR_HEADER_GIF_URL"
+    alt="Pixel cyberpunk header GIF — replace with your own"
+    width="100%"
+  />
+</div>
 
 <div align="center">
 
-<!-- Optional: replace this block with your own pixel-art banner image -->
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:10091B,55:24104A,100:071D2B&text=ACCESS%20GRANTED&fontColor=E9E3FF&fontSize=34&fontAlignY=48&desc=CYBERSECURITY%20%2F%20CODE%20%2F%20CURIOSITY&descAlignY=75&descSize=12&animation=fadeIn"
-  alt="Access granted — cybersecurity, code, curiosity"
-  width="100%"
-/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9B5CFF?style=flat-square&labelColor=10091B" alt="System online" />
-<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00D9FF?style=flat-square&labelColor=10091B" alt="Focus: cybersecurity" />
-<img src="https://img.shields.io/badge/MODE-LEARNING-FF4FD8?style=flat-square&labelColor=10091B" alt="Mode: learning" />
-
 # `> whoami`
 
-### `YOUR_NAME` · Cybersecurity Learner & Developer
+### Malus · Cybersecurity Learner
 
-*Exploring systems, understanding how they break, and learning how to make them safer.*
+**Learning systems. Exploring security. Building one step at a time.**
 
-[Repositories](https://github.com/YOUR_USERNAME?tab=repositories) ·
-[Projects](#-selected-projects) ·
-[Contact](#-connect)
+[![GitHub](https://img.shields.io/badge/GitHub-thanhtamMalus-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/thanhtamMalus)
+[![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY-0891B2?style=flat-square)](#about-me)
+[![Mode](https://img.shields.io/badge/MODE-LEARNING-DB2777?style=flat-square)](#current-objectives)
 
 </div>
 
 ---
 
-## `01 // BOOT SEQUENCE`
+## `01 // ABOUT ME`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│  TERMINAL :: PROFILE_INIT                                    │
-├──────────────────────────────────────────────────────────────┤
-│  > loading user profile...                         [ OK ]    │
-│  > initializing curiosity...                        [ OK ]    │
-│  > connecting to the cyber world...                [ OK ]    │
-│  > status: learning, building, trying again                    │
-└──────────────────────────────────────────────────────────────┘
+┌─ PROFILE_INIT ────────────────────────────┐
+│ user       : Malus                         │
+│ interest   : cybersecurity / systems       │
+│ environment: Linux / programming           │
+│ status     : learning, experimenting       │
+└────────────────────────────────────────────┘
 ```
 
-Hi, I'm **YOUR_NAME**. I'm studying **cybersecurity** and exploring the systems, tools, and ideas that make technology work.
+Hi! I'm **Malus**, a student interested in **cybersecurity, computer systems, and programming**.
 
-I like dark terminal interfaces, cyberpunk city lights, Linux environments, and small 8-bit details. I’m still learning, but I’m willing to try new things, experiment, and keep improving through hands-on projects.
+I enjoy Linux terminal aesthetics, cyberpunk city lights, and small 8-bit details. I’m still learning, and I’m happy to explore unfamiliar tools and ideas through practice.
 
-- `01` — Learn by building and experimenting.
-- `02` — Explore cybersecurity and computer systems responsibly.
-- `03` — Practice programming, problem-solving, and documenting what I learn.
-- `04` — Stay curious. Try things. Learn from what doesn't work.
+- Learning programming and system fundamentals.
+- Exploring cybersecurity through legal labs and authorized environments.
+- Building coursework projects and documenting what I learn.
+- Trying new things, learning from mistakes, and improving step by step.
 
-> **Current mindset:** curiosity first, consistency over perfection.
+> `curiosity > perfection`
 
 ## `02 // CURRENT OBJECTIVES`
 
 ```text
-[████████████░░░░░░░░]  EXPLORATION MODE
+[████████████░░░░░░░░] EXPLORATION MODE
 ```
 
 - [ ] Strengthen programming fundamentals.
 - [ ] Learn more about Linux and system internals.
-- [ ] Practice cybersecurity in legal labs and authorized environments.
-- [ ] Build projects that turn learning into something practical.
-- [ ] Share notes, experiments, and useful code as I progress.
+- [ ] Practice cybersecurity in safe, authorized environments.
+- [ ] Build more projects and share useful notes.
 
-*This checklist reflects learning goals, not claimed certifications or completed achievements.*
+*These are learning goals, not claims of certifications or completed achievements.*
 
 ---
 
-## `03 // TECH STACK`
+## `03 // TECH TOOLKIT`
 
 <div align="center">
-
-<!-- Keep only tools and languages you actively use or are currently learning. -->
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
-**Areas I'm exploring**
-
-| Area | Current direction |
+| Area | Exploring |
 |---|---|
 | Programming | Python, C/C++ fundamentals |
-| Operating systems | Linux, command line, system concepts |
+| Systems | Linux, command line, system concepts |
 | Cybersecurity | Core concepts, safe labs, defensive mindset |
-| Developer workflow | Git, GitHub, documentation |
+| Workflow | Git, GitHub, documentation |
 
-> Edit this section to match your actual experience. Remove any badge or topic you haven't used yet.
+*Keep only the technologies you actively use or are currently learning.*
 
 ---
 
-## `04 // SELECTED PROJECTS`
-
-<!-- Replace project names, descriptions, and URLs with your actual repositories. -->
+## `04 // FEATURED PROJECT`
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top" width="100%">
 
-### `01` · MMH
+### `LTHT` — Systems Programming Lab
 
-**Coursework / Code Archive**
+A collection of practical exercises for the **NT209 Systems Programming** course.
 
-A place to organize course code, exercises, and learning notes.
+**Topics:** Python · coursework · systems programming
 
-`Python` · `Coursework`
-
-[ `OPEN REPOSITORY →` ](https://github.com/YOUR_USERNAME/MMH)
-
-</td>
-    <td width="50%" valign="top">
-
-### `02` · LTHT
-
-**Systems Programming Lab**
-
-A collection of lab exercises and practical work for systems programming.
-
-`Programming` · `Lab work`
-
-[ `OPEN REPOSITORY →` ](https://github.com/YOUR_USERNAME/LTHT)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### `03` · NEXT BUILD
-
-**A project in progress**
-
-Use this card for a project you are currently building or planning.
-
-`In progress`
-
-[ `ADD REPOSITORY URL →` ](https://github.com/YOUR_USERNAME)
-
-</td>
-    <td width="50%" valign="top">
-
-### `04` · LEARNING LOG
-
-**Notes & experiments**
-
-Document useful commands, concepts, write-ups, and lessons learned.
-
-`Notes` · `Learning`
-
-[ `VIEW REPOSITORIES →` ](https://github.com/YOUR_USERNAME?tab=repositories)
+[![Open repository](https://img.shields.io/badge/OPEN_REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhtamMalus/LTHT)
 
 </td>
   </tr>
 </table>
+
+<div align="center">
+
+[**Browse all repositories →**](https://github.com/thanhtamMalus?tab=repositories)
+
+</div>
 
 ---
 
@@ -172,59 +130,51 @@ Document useful commands, concepts, write-ups, and lessons learned.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=10091B&title_color=9B5CFF&icon_color=00D9FF&text_color=E9E3FF&ring_color=FF4FD8"
+  src="https://github-readme-stats.vercel.app/api?username=thanhtamMalus&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&icon_color=0891B2&text_color=24292F"
   height="165"
-  alt="GitHub account statistics"
+  alt="GitHub statistics"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=10091B&title_color=9B5CFF&text_color=E9E3FF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtamMalus&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=6D28D9&text_color=24292F"
   height="165"
-  alt="Most used programming languages"
-/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=10091B&ring=9B5CFF&fire=FF4FD8&currStreakLabel=00D9FF&sideLabels=E9E3FF&dates=9A91AE"
-  height="165"
-  alt="GitHub contribution streak"
+  alt="Top programming languages"
 />
 
 <br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=10091B&color=E9E3FF&line=00D9FF&point=FF4FD8&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=thanhtamMalus&bg_color=FFFFFF&color=24292F&line=0891B2&point=DB2777&area=true&hide_border=true"
   width="96%"
-  alt="GitHub contribution activity graph"
+  alt="GitHub contribution activity"
 />
 
 <br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=9B5CFF&label=PROFILE+VIEWS"
-  alt="Profile view counter"
+  src="https://komarev.com/ghpvc/?username=thanhtamMalus&style=flat-square&color=6D28D9&label=PROFILE+VIEWS"
+  alt="Profile views"
 />
 
 </div>
 
-*Stats and graphs are supplied by external services. They may take time to load, have outages, or apply their own counting rules.*
+*These cards are generated by external services. They may occasionally be unavailable or use different counting rules.*
 
 ---
 
 ## `06 // TERMINAL NOTES`
 
 ```bash
-$ cat philosophy.txt
+$ cat mindset.txt
 
 stay curious
-read the documentation
-test in a safe environment
-learn from mistakes
-write things down
+read the docs
+practice responsibly
+learn by building
+document the journey
 repeat()
 ```
 
-I’m interested in the intersection of **systems, security, and software**. I don’t expect to know everything; I want to understand a little more each time I build, investigate, or troubleshoot something.
-
-Cybersecurity is a responsibility as much as a technical challenge: practice only on systems you own or have explicit permission to test.
+I’m interested in how systems work, how they fail, and how they can be made safer. Cybersecurity is both a technical challenge and a responsibility: I only support testing on systems I own or have explicit permission to assess.
 
 ---
 
@@ -232,28 +182,17 @@ Cybersecurity is a responsibility as much as a technical challenge: practice onl
 
 <div align="center">
 
-### `HAVE A COOL IDEA?`
+### `LET'S LEARN AND BUILD`
 
-I'm open to learning from other developers, exchanging ideas, and trying interesting projects.
+Interested in my coursework or experiments?
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-9B5CFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-</a>
-
-<!-- Optional: add a real email or social profile below. Do not publish private contact details. -->
-<!--
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/EMAIL-00D9FF?style=for-the-badge&logo=gmail&logoColor=101010" alt="Email" />
-</a>
--->
-
-<br/>
+[![Explore repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanhtamMalus?tab=repositories)
 
 ```text
 [ END OF TRANSMISSION ]
-BUILD  /  BREAK  /  LEARN  /  REPEAT
+LEARN  /  BUILD  /  IMPROVE
 ```
 
-<sub>DESIGNED IN DARK MODE · A LITTLE PIXEL · A LOT OF CURIOSITY</sub>
+<sub>LIGHT BACKGROUND · NEON ACCENTS · A LITTLE PIXEL · NO EXTRA NOISE</sub>
 
 </div>
