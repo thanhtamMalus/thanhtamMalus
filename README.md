@@ -1,117 +1,147 @@
-<!--
-THANHTAMMALUS — RETRO TERMINAL PROFILE
-Theme: Black / Purple / Pixel
-Replace optional placeholders as your profile grows.
--->
-
-<div align="center">
-
-<!-- Optional: replace this URL with your own retro pixel GIF -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09070D,50:392454,100:9B72CF&height=180&section=header&text=thanhtamMalus&fontSize=42&fontColor=E9D5FF&fontAlignY=38&desc=BUILDING%20%E2%80%A2%20LEARNING%20%E2%80%A2%20EXPLORING&descAlignY=60&descSize=13" width="100%" alt="Purple retro-inspired profile banner" />
-
-<br/>
-
-<a href="https://github.com/thanhtamMalus">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=C4A1FF&center=true&vCenter=true&width=520&lines=Student+%2F+Learner;Exploring+Cybersecurity;Learning+AI+%26+Machine+Learning;Writing+code%2C+one+step+at+a+time" alt="Animated introduction" />
-</a>
-
-<br/>
-
-![GitHub](https://img.shields.io/badge/GitHub-thanhtamMalus-18141F?style=flat-square&logo=github&logoColor=C4A1FF) !Focus !Status
-
-</div>
-
-$ whoami
-
-Hi, I'm thanhtamMalus — a student and lifelong learner interested in technology, problem-solving, and how things work under the hood.
-
-I'm currently exploring:
-
-Coding — building a strong programming foundation.
-Cybersecurity — learning about security concepts, vulnerabilities, and defensive practices.
-AI / Machine Learning — exploring intelligent systems and the ideas behind them.
-
-I believe in learning by doing, staying curious, and improving one project at a time.
-
-Curiosity is the beginning. Consistency is the process.
-$ cat interests.txt
-[01] CODING             -> Learn. Build. Improve.
-[02] CYBERSECURITY      -> Understand. Analyze. Defend.
-[03] AI / MACHINE LEARNING
-                         -> Explore. Experiment. Discover.
-
-
-My focus will evolve as I learn, experiment, and discover new areas of interest.
-
-$ ls ./projects
-
-Projects are where learning becomes something tangible.
 
 <!--
-When you have projects to showcase, replace this section with entries like:
-
-### Project Name
-A short description of the problem it solves.
-- Built with: YOUR_TECH_STACK
-- [Source code](YOUR_REPOSITORY_URL) · [Live demo](YOUR_DEMO_URL)
-
-Add your real projects here. No need to wait until they're perfect.
+  PIXEL CYBERPUNK GITHUB PROFILE
+  Replace YOUR_USERNAME with your GitHub username.
 -->
 
-Projects will be featured here as I build, document, and share my work.
+### `> BUILDING USEFUL SOFTWARE, ONE COMMIT AT A TIME_`
 
-$ git status
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhtamMalus&show_icons=true&hide_border=true&bg_color=0D0A12&title_color=C4A1FF&text_color=D8D0E5&icon_color=A78BFA&ring_color=C4A1FF" alt="GitHub statistics for thanhtamMalus" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhtamMalus&layout=compact&hide_border=true&bg_color=0D0A12&title_color=C4A1FF&text_color=D8D0E5" alt="Most-used programming languages on GitHub" />
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-9B5CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Python](https://img.shields.io/badge/Python-Developer-00D9FF?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/STATUS-LEARNING-FF4FD8?style=for-the-badge)](#about-me)
 
 </div>
 
+---
+
+## `01 // ABOUT ME`
+
+```text
+[ SYSTEM ONLINE ]
+[ USER: YOUR_USERNAME ]
+[ CLASS: STUDENT / DEVELOPER ]
+[ MISSION: LEARN -> BUILD -> IMPROVE ]
+```
+
+Hi! I'm **YOUR_NAME**, a student passionate about programming,
+problem-solving, and building useful software.
+
+- 🎓 Currently studying Information Technology.
+- 💻 Exploring Python, C++, and system programming.
+- 🧩 Learning by building projects and solving problems.
+- 🚀 Improving my skills one commit at a time.
+- 🌌 Interested in software engineering and low-level systems.
+
+> "Every expert was once a beginner who refused to give up."
+
+---
+
+## `02 // PROOF AT A GLANCE`
+
 <div align="center">
 
-!GitHub Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B5CFF&icon_color=00D9FF&text_color=E6EDF3&ring_color=FF4FD8" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=9B5CFF&text_color=E6EDF3" height="165" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4FD8&currStreakLabel=00D9FF&sideLabels=E6EDF3&dates=8B949E" height="165" alt="Contribution streak" />
 
 </div>
 
-$ cat philosophy.txt
+---
+
+## `03 // SELECTED WORK`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🟣 MMH
+
+**NT219 — Code Archive**
+
+A repository for storing coursework, source code, and learning materials.
+
+`Python` `Coursework`
+
+[→ Explore repository](https://github.com/YOUR_USERNAME/MMH)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔵 LTHT
+
+**NT209 — Systems Programming Lab**
+
+Hands-on laboratory exercises and practical assignments for systems programming.
+
+`Python` `Systems`
+
+[→ Explore repository](https://github.com/YOUR_USERNAME/LTHT)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 // TECHNICAL TOOLKIT`
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" />
+</p>
+
+### Tools & Environment
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## `05 // CONSISTENCY SIGNAL`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Inspirational quote" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=9B5CFF&line=00D9FF&point=FF4FD8&area=true&hide_border=true)](https://github.com/YOUR_USERNAME)
 
-<br/><br/>
-
-  ╔══════════════════════════════╗
-  ║  STAY CURIOUS. KEEP BUILDING ║
-  ║  LEARN IN PUBLIC. STAY HUMBLE║
-  ╚══════════════════════════════╝
-
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=9B5CFF&label=PROFILE+VISITS)
 
 </div>
 
-$ ./connect.sh
+---
 
-Interested in coding, cybersecurity, or AI? Feel free to explore my repositories and follow along as I learn.
+## `06 // CURRENT OBJECTIVES`
+
+- [x] Set up my GitHub profile.
+- [x] Start building programming projects.
+- [ ] Improve C++ and systems programming.
+- [ ] Build more personal projects.
+- [ ] Contribute to open-source software.
+
+*Progress is a feature. Consistency is the update.*
+
+---
+
+## `07 // CONNECT`
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/Explore%20my%20repositories-18141F?style=for-the-badge&logo=github&logoColor=C4A1FF)
+### `HAVE AN IDEA? LET'S BUILD SOMETHING.`
 
-<br/>
+Open to learning, collaboration, and interesting projects.
 
-Designed with a little retro nostalgia and a lot of curiosity.
+[![GitHub](https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-9B5CFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME?tab=repositories)
 
-<code>EOF — more to come.</code>
+<sub>POWERED BY CURIOSITY · BUILT WITH CODE · STYLED IN CYBERPUNK</sub>
 
 </div>
-
-<!-- Optional future additions:
-- Add verified technology badges after choosing your tech stack.
-- Add a real pixel-art GIF or custom banner.
-- Add a contact link when you have a public contact channel.
-- Add a contribution snake animation using a GitHub Actions workflow.
--->
