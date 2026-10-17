@@ -26,7 +26,7 @@
         <b>Learning systems. Exploring security. Building one step at a time.
       </b>
       </p>
-      <p> <a href="https://github.com/thanhtamMalus"><img src="https://img.shields.io/badge/GitHub-thanhtamMalus-DDD6FE?style=flat-square&logo=github&logoColor=5B21B6" alt="GitHub" />
+      <p> <a href="https://github.com/thanhtamMalus"><img src="https://img.shields.io/badge/GitHub-thanhtamMalus-DDD6FE?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
       </a> <img src="https://img.shields.io/badge/Focus-Cybersecurity-C4B5FD?style=flat-square" alt="Focus: Cybersecurity" /> <img src="https://img.shields.io/badge/Status-Learning-FBCFE8?style=flat-square" alt="Status: Learning" /> 
       </p> 
     </td>
