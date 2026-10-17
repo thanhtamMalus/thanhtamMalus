@@ -81,29 +81,16 @@ malus@night-sky:~$ cat about.txt
 
 ## `> FEATURED PROJECTS`
 
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thanhtamMalus/LTHT">LTHT</a> &nbsp;·&nbsp; <sub>featured</sub></h3>
-      <p>Hands-on lab exercises for the <b>NT209</b> Systems Programming course.</p>
-      <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
-      <p><a href="https://github.com/thanhtamMalus/LTHT"><b>Open repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thanhtamMalus/MMH">MMH</a></h3>
-      <p>Code storage for the <b>NT219</b> course.</p>
-      <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
-      <p><a href="https://github.com/thanhtamMalus/MMH"><b>Open repository →</b></a></p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/thanhtamMalus/TEN_REPO_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtamMalus&repo=TEN_REPO_1&theme=radial" />
+</a>
+<a href="https://github.com/thanhtamMalus/TEN_REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thanhtamMalus&repo=TEN_REPO_2&theme=radial" />
+</a>
 
 <a href="https://github.com/thanhtamMalus?tab=repositories"><b>Show more →</b></a>
 
-</div>
-
+</div> <br />
 <br />
 
 ## `05 // GITHUB STATISTICS`
