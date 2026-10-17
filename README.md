@@ -12,7 +12,7 @@ SETUP:
 Upload your GIF to a public location (for example, this profile repository under assets/header.gif),
 then replace YOUR_HEADER_GIF_URL below with its raw URL.
 Example raw URL:
-https://raw.githubusercontent.com/thanhtamMalus/thanhtamMalus/main/assets/header.gif
+[https://raw.githubusercontent.com/thanhtamMalus/thanhtamMalus/main/assets/header.gif](https://wallpapers-clan.com/wp-content/uploads/2024/03/starfall-night-sky-mountains-aesthetic-gif-preview-desktop-wallpaper.gif)
 -->
 <div align="center">
   <img
