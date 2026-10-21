@@ -85,10 +85,10 @@ malus@night-sky:~$ cat about.txt
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/thanhtamMalus/LTHT">LTHT</a> &nbsp;·&nbsp; <sub>featured</sub></h3>
-      <p>Hands-on lab exercises for the <b>NT209</b> Systems Programming course.</p>
+      <h3><a href="https://github.com/thanhtamMalus/CTF">CTF</a> &nbsp;&nbsp; <sub> 📌Pinned</sub></h3>
+      <p>Write up exercises for the <b>CTF</b> to learn and play.</p>
       <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
-      <p><a href="https://github.com/thanhtamMalus/LTHT"><b>Open repository →</b></a></p>
+      <p><a href="https://github.com/thanhtamMalus/CTF"><b>Open repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/thanhtamMalus/MMH">MMH</a></h3>
