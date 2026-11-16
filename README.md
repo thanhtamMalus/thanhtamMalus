@@ -40,7 +40,7 @@
 </div> 
 <br />
 
-## `> ABOUT ME`
+### `> ABOUT ME`
 
 ```bash
 malus@night-sky:~$ cat about.txt
@@ -52,7 +52,14 @@ malus@night-sky:~$ cat about.txt
   approach  : learn in the open, practice in legal labs, improve step by step
   signature : curiosity > perfection
 ```
+### `> CONNECT`
 
+<div align="center">
+
+<a href="https://github.com/thanhtamMalus"><img src="https://img.shields.io/badge/GitHub-thanhtamMalus-DDD6FE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/nghthanhtam"><img src="https://img.shields.io/badge/LinkedIn-nghthanhtam-FBCFE8?style=for-the-badge&logo=linkedin&logoColor=9D174D" alt="LinkedIn" /></a>
+
+</div>
 <br />
 
 ## `> CURRENT OBJECTIVES`
@@ -77,56 +84,4 @@ malus@night-sky:~$ cat about.txt
 
 </div>
 
-<br />
 
-## `> FEATURED PROJECTS`
-
-<div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thanhtamMalus/CTF">CTF</a> &nbsp;&nbsp; <sub> 📌Pinned</sub></h3>
-      <p>Write up exercises for the <b>CTF</b> to learn and play.</p>
-      <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
-      <p><a href="https://github.com/thanhtamMalus/CTF"><b>Open repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/thanhtamMalus/MMH">MMH</a></h3>
-      <p>Code storage for the <b>NT219</b> course.</p>
-      <p><img src="https://img.shields.io/badge/Python-DDD6FE?style=flat-square&logo=python&logoColor=5B21B6" alt="Python" /></p>
-      <p><a href="https://github.com/thanhtamMalus/MMH"><b>Open repository →</b></a></p>
-    </td>
-  </tr>
-</table>
-
-<a href="https://github.com/thanhtamMalus?tab=repositories"><b>Show more →</b></a>
-
-</div>
-
-<br />
-
-## `> GITHUB STATISTICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=thanhtamMalus&show_icons=true&bg_color=F5F0FF&border_color=DDD6FE&title_color=8B5CF6&icon_color=F472B6&text_color=5B4B8A&border_radius=10" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=thanhtamMalus&background=F5F0FF&border=DDD6FE&stroke=DDD6FE&ring=A78BFA&fire=F472B6&currStreakNum=8B5CF6&sideNums=8B5CF6&currStreakLabel=A78BFA&sideLabels=5B4B8A&dates=5B4B8A&border_radius=10" alt="GitHub streak" />
-
-<br /><br />
-
-<img src="https://ghchart.rshah.org/A78BFA/thanhtamMalus" alt="Contribution graph" width="100%" />
-
-</div>
-
-## `> CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/thanhtamMalus"><img src="https://img.shields.io/badge/GitHub-thanhtamMalus-DDD6FE?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/nghthanhtam"><img src="https://img.shields.io/badge/LinkedIn-nghthanhtam-FBCFE8?style=for-the-badge&logo=linkedin&logoColor=9D174D" alt="LinkedIn" /></a>
-
-<br /><br />
-
-`> end of transmission_`
-
-</div>
